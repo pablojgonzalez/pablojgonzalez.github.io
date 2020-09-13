@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volcanoes on Volcano and Fault Mechanics</title>
+    <link>https://pablojgonzalez.github.io/tags/volcanoes/</link>
+    <description>Recent content in Volcanoes on Volcano and Fault Mechanics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2020 Pablo J. González</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pablojgonzalez.github.io/tags/volcanoes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UK NERC-COMET</title>
+      <link>https://pablojgonzalez.github.io/project/2014-2021_comet/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/project/2014-2021_comet/</guid>
+      <description>The Centre for Observation and Modelling of Earthquakes, Volcanoes and Tectonics (COMET) uses satellite measurements alongside ground-based observations and geophysical models to study earthquakes and volcanoes, and help understand the hazards they pose.
+A national-scale community with considerable size and impact, COMET brings together world-leading scientists across the British Geological Survey (BGS) and 10 UK universities: Bristol, Cambridge, Durham, Leeds, Liverpool, Manchester, Newcastle, Oxford, Reading and UCL. We work closely with the Natural Environment Research Council (NERC), National Centre for Earth Observation (NCEO) and European Space Agency (ESA), as well as many other national and international partners.</description>
+    </item>
+    
+  </channel>
+</rss>
