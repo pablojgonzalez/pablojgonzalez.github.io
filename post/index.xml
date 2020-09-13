@@ -13,61 +13,52 @@
     
     
     <item>
+      <title>Observando los volcanoes desde el espacio</title>
+      <link>https://pablojgonzalez.github.io/post/20140712_observandovolcanoesdesdeelespacio/</link>
+      <pubDate>Sat, 12 Jul 2014 12:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/post/20140712_observandovolcanoesdesdeelespacio/</guid>
+      <description>Con una cotidianidad pasmosa nos hemos llegado a acostumbrar a mirar el televisor cada día después de las noticias, y ver una perpectiva, inusual, de otro mundo, uno que nunca hemos observado desde ese punto de vista, pero que sin embargo reconocemos con facilidad. Somos capaces de identificar sin dificultad las líneas continentales, las masas de agua y, el objetivo de esa representación en cámara, la evolución de las nubes, y por ende, del vapor de agua listo para descargar sobre nuestras cabezas.</description>
+    </item>
+    
+    <item>
+      <title>3D-DEF code and manual/tutorial (.pdf)</title>
+      <link>https://pablojgonzalez.github.io/post/20130517_3defcode/</link>
+      <pubDate>Fri, 17 May 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/post/20130517_3defcode/</guid>
+      <description>Recently, I encountered a ground deformation problem where the slip along a particular fault seems not partitioned (distributed) as usual. Most of the elastic dislocation codes assume that slip partitions about half of the slip on one side block (hangingwall) and the other half along the other block (footwall), e.g., the popular Okada codes. These codes will not work when slip occurs only due to the motion of one block. This is basically the problem I want to study, for this you need more advance and flexible programs, one of those is 3D-DEF.</description>
+    </item>
+    
+    <item>
+      <title>Carta Abierta al IGN: Política de acceso a datos científicos</title>
+      <link>https://pablojgonzalez.github.io/post/20130401_cartaabiertaign/</link>
+      <pubDate>Mon, 01 Apr 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/post/20130401_cartaabiertaign/</guid>
+      <description>Estimado Sr./Sra.,
+Wikimedia Wikimedia
+Me dirijo a Ud. para solicitar que hagan pública su política de acceso a datos científicos generados por el Insituto Geográfico Nacional de España (IGN).
+Creo que es de interés público, y en particular de aquellos científicos españoles e internacionales interesados en procesos geológicos y geofísicos ocurridos en el territorio español y sus proximidades, saber cuando, bajo qué condiciones, detalles técnicos de adquisición y en qué formato se puede acceder a todos los datos de carácter científico recabados por el IGN.</description>
+    </item>
+    
+    <item>
+      <title>Hawai&#39;i 2012 a trip to live geohazards: Earthquake, Tsunami, and Volcanoes</title>
+      <link>https://pablojgonzalez.github.io/post/20121104_hawaii/</link>
+      <pubDate>Sun, 04 Nov 2012 12:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/post/20121104_hawaii/</guid>
+      <description>Recently, I have visited the Maui and Big Island in Hawai’i. I must admit I haven’t had the time to visit Maui properly due to a busy conference schedule ACES2012, so I hope to have another chance to explore the plenty nice rain-forests and waterfalls (Road to Hana), the Haleakala volcano, or just surfing the eastern coast outer reefs (my other passion in life).
+However, as I landed into the Big Island, my first passion in life the natural hazards become so intense that I don’t regret to pass the opportunity to surf in Hawai’i (something that certainly sounds very cool to my folks back in the Canary Islands).</description>
+    </item>
+    
+    <item>
       <title>2011 Lorca earthquake: groundwater unloading of the crust</title>
       <link>https://pablojgonzalez.github.io/post/20121019_lorca/</link>
-      <pubDate>Tue, 20 Nov 2018 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 19 Oct 2012 12:00:00 +0000</pubDate>
       
       <guid>https://pablojgonzalez.github.io/post/20121019_lorca/</guid>
       <description>As recent as Monday, a group of colleagues and myself published a paper in Nature Geoscience, showing proof of a positive correlation between the slip distribution occurred during the 2011 Lorca earthquake and the mid-term (50-years) stress changes due to a crustal unloading groundwater mass removal process. This finding is quite exciting, hitting the media and apparently causing lot of discussion. However, I regret to see some news reports highlighting the word &amp;ldquo;caused&amp;rdquo;, something we didn&amp;rsquo;t say nor endorse in our study.</description>
-    </item>
-    
-    <item>
-      <title>Getting started with the Academic framework for Hugo</title>
-      <link>https://pablojgonzalez.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://pablojgonzalez.github.io/post/getting-started/</guid>
-      <description>The Academic framework enables you to easily create a beautifully simple personal or academic website using the Hugo static site generator.
-Key features:
- Easily manage your homepage, blog posts, publications, talks, and projects Configurable widgets available for Biography, Publications, Projects, News/Blog, Talks, and Contact Need a different section? Just use the Custom widget! Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Easy to customize  Installation  Install Hugo and create a new website by typing the following commands in your Terminal or Command Prompt app:</description>
-    </item>
-    
-    <item>
-      <title>Customizing the homepage with widgets</title>
-      <link>https://pablojgonzalez.github.io/post/widgets/</link>
-      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      
-      <guid>https://pablojgonzalez.github.io/post/widgets/</guid>
-      <description>Homepage widgets display as sections on the homepage. They can be enabled/disabled and configured as desired. Academic has the following widgets available to use:
- About/biography Selected publications Recent publications Recent news/blog posts Projects Selected talks Recent talks Contact Custom widget (demonstrated with the teaching example)  The example site that you copied to create your site uses all the different types of widget (except talks), so you can generally just delete the widgets you don&amp;rsquo;t need and customize the parameters of the widgets you wish to keep.</description>
-    </item>
-    
-    <item>
-      <title>Managing content</title>
-      <link>https://pablojgonzalez.github.io/post/managing-content/</link>
-      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      
-      <guid>https://pablojgonzalez.github.io/post/managing-content/</guid>
-      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://pablojgonzalez.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>https://pablojgonzalez.github.io/post/writing-markdown-latex/</link>
-      <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
-      
-      <guid>https://pablojgonzalez.github.io/post/writing-markdown-latex/</guid>
-      <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll to Hugo</title>
-      <link>https://pablojgonzalez.github.io/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://pablojgonzalez.github.io/post/migrate-from-jekyll/</guid>
-      <description>Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s getting started guide.
-Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like</description>
     </item>
     
   </channel>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Volcano and Fault Mechanics</title>
+    <link>https://pablojgonzalez.github.io/publication_types/5/</link>
+    <description>Recent content in 5 on Volcano and Fault Mechanics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2020 Pablo J. González</copyright>
+    <lastBuildDate>Wed, 25 Aug 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pablojgonzalez.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2010: Modelling deformation occurring in the city of Auckland, New Zealand mapped by the Differential Synthetic Aperture Radar</title>
+      <link>https://pablojgonzalez.github.io/publication/2010/2010-08-25_samsonovetal_jgr_auckland/</link>
+      <pubDate>Wed, 25 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/publication/2010/2010-08-25_samsonovetal_jgr_auckland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2010: Deformation and Gravity Change: Indicators of Isostasy, Tectonics, Volcanism, and Climate Change, Vol. II</title>
+      <link>https://pablojgonzalez.github.io/publication/2010/2010-09-26_wolfetal_paag2010book/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/publication/2010/2010-09-26_wolfetal_paag2010book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

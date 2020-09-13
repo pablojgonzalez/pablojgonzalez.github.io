@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2020 Pablo J. González</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2000 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pablojgonzalez.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>1</title>
       <link>https://pablojgonzalez.github.io/publication_types/1/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2000 00:00:00 +0000</pubDate>
       
       <guid>https://pablojgonzalez.github.io/publication_types/1/</guid>
       <description></description>
@@ -27,6 +27,15 @@
       <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://pablojgonzalez.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://pablojgonzalez.github.io/publication_types/5/</link>
+      <pubDate>Wed, 25 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/publication_types/5/</guid>
       <description></description>
     </item>
     
