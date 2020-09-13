@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Volcano and Fault Mechanics</title>
+    <link>https://pablojgonzalez.github.io/home/</link>
+    <description>Recent content in Homes on Volcano and Fault Mechanics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2020 Pablo J. González</copyright>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pablojgonzalez.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pablojgonzalez.github.io/home/about/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/home/about/</guid>
+      <description>Biography Pablo J. González is a Senior Researcher in Geodynamics and Structure of the Lithosphere, at the Estación Volcanológica de Canarias (IPNA-CSIC) located in La Laguna, Tenerife, Canary Islands.
+We study volcano and fault mechanics, or in simple terms, how and why volcanoes and faults deform. A knowledge with practical application for geological hazard assessment, and risk reduction. To learn more about magmatic sytems and fault zone processes we use constrains from geophysical and geodetic observations, mainly Earth Observation data.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://pablojgonzalez.github.io/home/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/home/people/</guid>
+      <description>Current team members:  Pablo J. González (Senior Researcher) Yu Jiang (COMET and University of Liverpool PhD researcher funded by CSC China Scholarship, 2017-2021). Yu works on the mechanics of continental normal faults applying satellite geodesy and bayesian inference methods.  In addition, we have enjoyed working with our lab visitors, and past team members.
+Work with us: The Estación Volcanológica de Canarias is a research group within CSIC, Spain&amp;rsquo;s largest research-intensive institution.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://pablojgonzalez.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://pablojgonzalez.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://pablojgonzalez.github.io/home/resources/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/home/resources/</guid>
+      <description>At the University of Liverpool, I tought a number of courses:
+Undergraduate level: ENVS101: Study Skills and GIS (Earth Science), ENVS258: Environmental Geophysics (Remote Sensing &amp;amp; GNSS), ENVS368/568: Geophysical Exploration Techniques, ENVS314: Quantitative Tectonics and ENVS300/400: Geophysical Project (BSc Geophysics research project)
+Master level: ENVS608: MSc Petroleum Geology project
+I also recently tauch lectures/courses for: * The COMET-InSAR training workshops at University of Leeds in November 2016, 2017 and 2018; * Digital Elevation Models for Earth Sciences Workshop, a 1-day workshop in Liverpool, 9th January 2017; together with Dr Felix Von-Aulock (Liverpool) and Dr Mike James (Lancaster); * Volcano geodesy modules during the 1st Tenerife International Training Course on Volcano Monitoring, Tenerife Islands (Canary Islands), 1-10 April 2017.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://pablojgonzalez.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pablojgonzalez.github.io/home/contact/</link>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
