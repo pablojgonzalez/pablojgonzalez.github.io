@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Volcano and Fault Mechanics</title>
+    <link>https://pablojgonzalez.github.io/tags/programming/</link>
+    <description>Recent content in Programming on Volcano and Fault Mechanics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2020 Pablo J. González</copyright>
+    <lastBuildDate>Fri, 17 May 2013 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pablojgonzalez.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D-DEF code and manual/tutorial (.pdf)</title>
+      <link>https://pablojgonzalez.github.io/post/20130517_3defcode/</link>
+      <pubDate>Fri, 17 May 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://pablojgonzalez.github.io/post/20130517_3defcode/</guid>
+      <description>Recently, I encountered a ground deformation problem where the slip along a particular fault seems not partitioned (distributed) as usual. Most of the elastic dislocation codes assume that slip partitions about half of the slip on one side block (hangingwall) and the other half along the other block (footwall), e.g., the popular Okada codes. These codes will not work when slip occurs only due to the motion of one block. This is basically the problem I want to study, for this you need more advance and flexible programs, one of those is 3D-DEF.</description>
+    </item>
+    
+  </channel>
+</rss>
