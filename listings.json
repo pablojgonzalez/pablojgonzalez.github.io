@@ -35,6 +35,7 @@
       "/01_Team/Active/00_ThomasBoulesteix/index.html",
       "/01_Team/Active/02_ManWaiYipMichelle/index.html",
       "/01_Team/Active/02_MohammadHossainMohammadNia/index.html",
+      "/01_Team/Active/03_SergioParra/index.html",
       "/01_Team/Past/10_SamiraAlipour/index.html",
       "/01_Team/Past/11_GuadalupeBru/index.html",
       "/01_Team/Past/12_AmayaFuensalida/index.html",
@@ -90,6 +91,10 @@
   {
     "listing": "/05_NewsAndMedia.html",
     "items": [
+      "/05_NewsAndMedia/20241022_InvitedSeminar_LMU/index.html",
+      "/05_NewsAndMedia/20241018_InvitedTalk_IIIVulcanaSymposium/index.html",
+      "/05_NewsAndMedia/20241007_RottNRockVisitsTeide/index.html",
+      "/05_NewsAndMedia/20240929_VolcaMotionElHierroSurvey/index.html",
       "/05_NewsAndMedia/20240717_CopeRadio/index.html",
       "/05_NewsAndMedia/20240530_Charcoetal_GRL/index.html",
       "/05_NewsAndMedia/20240530_SeminarioRSAPT/index.html",
