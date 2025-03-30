@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,12 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-bb233e8457c68c146becf8b379d74bef.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-a6d1ae5006a57a3916d7c37d0e68a9a9.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script type="application/ld+json">{"@context":"http://www.schema.org","@type":"person","name":"Pablo J. Gonzalez","jobTitle":"Cientifico Titular","height":"1.74 meters","gender":"male","description":"Pablo J. Gonzalez is a volcano geophysicist working for CSIC at La Laguna, Tenerife, Canary Islands, Spain.","url":"https://pablojgonzalez.github.io","image":"https://pablojgonzalez.github.io/files/ProfilePic.jpg","address":{"@type":"PostalAddress","addressLocality":"La Laguna","addressRegion":"Canary Islands","postalCode":"38206","addressCountry":"Spain"},"alumniOf":[{"@type":"University of Granada","sameAs":"https://en.wikipedia.org/wiki/University_of_Granada","name":"Universidad Complutense de Madrid","sameAs":"https://en.wikipedia.org/wiki/Complutense_University_of_Madrid"}],"worksFor":[{"@type":"Organization","name":"CSIC"}],"birthDate":"1978-12-23","birthPlace":"Tenerife, Spain","memberOf":[{"@type":"Organization","name":"IAVCEI"},{"@type":"Organization","name":"AGU"},{"@type":"Organization","name":"EGU"}],"nationality":[{"@type":"Country","name":"Spain"}]}</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="Publications – Volcano and Fault Mechanics">
 <meta property="og:description" content="Pablo J. Gonzalez is a volcano-tectonic geophysicist working at the intersection of Earth Observation techniques, geodynamics and volcanology.">
@@ -213,15 +242,14 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="papers" class="level1">
 <h1>Papers</h1>
+<p><span class="math inline">\(^{=}\)</span>Authors contribute equally; <span class="math inline">\(^{*}\)</span>Supervised researcher (undergrad, postgrad or postdoc)</p>
 <section id="submitted-under-peer-review" class="level4">
 <h4 class="anchored" data-anchor-id="submitted-under-peer-review">Submitted | Under peer-review</h4>
-<!--
-- Hicks, S., **González, P.J.** Tectonic control on rapid magma ascent, stalling, and lateral migration revealed by ultra-high precision seismicity locations during the 2022 São Jorge Island (Azores) seismic-volcanic crisis.
--->
 <ul>
-<li><p>Mohammadnia, M., Yip, M.W., Webb, A.A.G., <strong>González, P.J.</strong> Spontaneous transient summit uplift at Taftan volcano (Makran subduction arc) imaged using an InSAR common-mode filtering method</p></li>
-<li><p>Hicks, S., <strong>González, P.J.</strong> et al., Leaky faults modulated magma ascent and seismicity during the 2022 São Jorge (Azores) volcanic unrest.</p></li>
-<li><p>Yip, M.W., Webb, A.A.G., <strong>González, P.J.</strong> Quantifying salt extrusion versus surface salt flow rates at Mt. Sedom to gain insights on its mechanics and potential external atmospheric forcing.</p></li>
+<li><p>Biggs, J., Anantrasirichai, N., Anderson, K., Cayol, V., Dualeh, E., Dumont, Q., Ebmeier, S., Froger, J.L., Gaddes, M., Galetto, F., <strong>González, P.J.</strong>, Hamling, I., Hooper, A., Lazecky, M., Pritchard, M. Rapid Advances in Volcano Monitoring Driven by the First Decade of Sentinel-1 Observations. <a href="http://ssrn.com/abstract=5196731">SSRM pre-print</a></p></li>
+<li><p>Mohammadnia<span class="math inline">\(^{*}\)</span>, M., Yip<span class="math inline">\(^{*}\)</span>, M.W., Webb, A.A.G., <strong>González, P.J.</strong> Spontaneous transient summit uplift at Taftan volcano (Makran subduction arc) imaged using an InSAR common-mode filtering method</p></li>
+<li><p>Hicks<span class="math inline">\(^{=}\)</span>, S., <strong>González<span class="math inline">\(^{=}\)</span>, P.J.</strong> et al., Leaky faults modulated magma ascent and seismicity during the 2022 São Jorge (Azores) volcanic unrest.</p></li>
+<li><p>Yip<span class="math inline">\(^{*}\)</span>, M.W., Webb, A.A.G., <strong>González, P.J.</strong> Quantifying salt extrusion versus surface salt flow rates at Mt. Sedom to gain insights on its mechanics and potential external atmospheric forcing.</p></li>
 </ul>
 </section>
 </section>
@@ -233,9 +261,9 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="section-1" class="level2">
 <h2 class="anchored" data-anchor-id="section-1">2024</h2>
-<p>[73] Fahrner, D., <strong>González, P.J.</strong>, Mair, D.W.F., Lea, J.M. (2024) Implications of high-resolution velocity and strain rate observations for modelling of Greenlandic tidewater glaciers, <em>Journal of Glaciology</em>, doi:<a href="https://doi.org/10.1017/jog.2024.63">10.1017/jog.2024.63</a></p>
+<p>[73] Fahrner<span class="math inline">\(^{*}\)</span>, D., <strong>González, P.J.</strong>, Mair, D.W.F., Lea, J.M. (2024) Implications of high-resolution velocity and strain rate observations for modelling of Greenlandic tidewater glaciers, <em>Journal of Glaciology</em>, doi:<a href="https://doi.org/10.1017/jog.2024.63">10.1017/jog.2024.63</a></p>
 <p>[72] <strong>González, P.J.</strong> (2024). <em>Interferometric Synthetic Aperture Radar (InSAR)</em>. In: Chaussard, E., Jones, C., Chen, J.A., Donnellan, A. (eds) Remote Sensing for Characterization of Geohazards and Natural Resources. Springer Remote Sensing/Photogrammetry. Springer, Cham. doi:<a href="https://doi.org/10.1007/978-3-031-59306-2_3">10.1007/978-3-031-59306-2_3</a>. <a href="https://doi.org/10.31223/X53G9K">EarthXiv pre-print</a></p>
-<p>[71] Charco, M., <strong>González, P.J.</strong>, Pallero, J.L.G., García‐Cañada, L., del Fresno, C., Rodríguez‐Ortega, A. (2024) The 2021 La Palma (Canary Islands) Eruption Ending Forecast Through Magma Pressure Drop. <em>Geophysical Research Letters</em>. doi:<a href="https://doi.org/10.1029/2023gl106885">10.1029/2023gl106885</a></p>
+<p>[71] Charco<span class="math inline">\(^{=}\)</span>, M., <strong>González<span class="math inline">\(^{=}\)</span>, P.J.</strong>, Pallero, J.L.G., García‐Cañada, L., del Fresno, C., Rodríguez‐Ortega*, A. (2024) The 2021 La Palma (Canary Islands) Eruption Ending Forecast Through Magma Pressure Drop. <em>Geophysical Research Letters</em>. doi:<a href="https://doi.org/10.1029/2023gl106885">10.1029/2023gl106885</a></p>
 <p>[70] Schlaphorst, D., Silveira, G., Ramalho, R.S., <strong>González, P.J.</strong>, Antón, R. (2024). Dynamic subsurface changes on El Hierro and La Palma during volcanic unrest revealed by temporal variations in seismic anisotropy patterns. <em>Frontiers in Earth Science</em>, 11, 1299338. doi:<a href="https://doi.org/10.3389/feart.2023.1299338">10.3389/feart.2023.1299338</a></p>
 </section>
 </section>
@@ -243,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
 <h1>2018-2023 (3<sup>rd</sup> sexenio)</h1>
 <section id="section-2" class="level2">
 <h2 class="anchored" data-anchor-id="section-2">2023</h2>
-<p>[69] Yip, M.W., Webb, A.A.G., <strong>González, P.J.</strong> (2023) Quantized compression of SAR data: Bounds on signal fidelity, InSAR PS candidates identification and surface motion accuracy. <em>International Journal of Applied Earth Observation and Geoinformation</em>, 125(103548), doi:<a href="https://doi.org/10.1016/j.jag.2023.103548">10.1016/j.jag.2023.103548</a></p>
+<p>[69] Yip<span class="math inline">\(^{*}\)</span>, M.W., Webb, A.A.G., <strong>González, P.J.</strong> (2023) Quantized compression of SAR data: Bounds on signal fidelity, InSAR PS candidates identification and surface motion accuracy. <em>International Journal of Applied Earth Observation and Geoinformation</em>, 125(103548), doi:<a href="https://doi.org/10.1016/j.jag.2023.103548">10.1016/j.jag.2023.103548</a></p>
 <p>[68] <strong>González, P.J.</strong> (2023). <em>El Hierro Island Volcanological Science: An Overview</em>. In: González, P.J. (ed) El Hierro Island. Active Volcanoes of the World (1): 1-16. Springer, Cham. doi:<a href="https://doi.org/10.1007/978-3-031-35135-8_1">10.1007/978-3-031-35135-8_1</a>.</p>
 <p>[67] Plank, S., Shevchenko, A. V., d’Angelo, P., Gstaiger, V., <strong>González, P.J.</strong>, Cesca, S., Martinis, S., Walter, T.R., (2023) Combining thermal, tri-stereo optical and bi-static InSAR satellite imagery for lava volume estimates: the 2021 Cumbre Vieja eruption, La Palma. <em>Scientific Reports</em>. doi:<a href="https://doi.org/10.1038/s41598-023-29061-6">10.1038/s41598-023-29061-6</a></p>
 <p>[66] Walter, T.R., Zorn, E.U., <strong>González, P.J.</strong>, Sansosti, E., Muñoz, V., Shevchenko, A.V., Plank, S.M., Reale, D., Richter, N., (2023) Late complex tensile fracturing interacts with topography at Cumbre Vieja, La Palma. <em>Volcanica</em>. doi:<a href="https://doi.org/10.30909/vol.06.01.0117">10.30909/vol.06.01.0117</a></p>
@@ -279,7 +307,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="section-7" class="level2">
 <h2 class="anchored" data-anchor-id="section-7">2018</h2>
 <p>[49] Mestre-Quereda A., Lopez-Sanchez J.M., Selva J., <strong>González P.J.</strong> (2018) An Improved Phase Filter for Differential SAR Interferometry Based on an Iterative Method. <em>IEEE Transactions on Geoscience and Remote Sensing</em>, 56(8), 4477-4491. doi:<a href="https://doi.org/10.1109/TGRS.2018.2820725">10.1109/TGRS.2018.2820725</a></p>
-<p>[48] Bie L., Hicks S., Garth T., <strong>González P.J.</strong>, Rietbrock A. (2018) ‘Two go together’: Near-simultaneous moment release of two asperities during the 2016 Mw6.6 Muji, China earthquake. <em>Earth and Planetary Science Letters</em>, 491, 34-42 doi:<a href="https://doi.org/10.1016/j.epsl.2018.03.033">10.1016/j.epsl.2018.03.033</a></p>
+<p>[48] Bie* L., Hicks S., Garth T., <strong>González P.J.</strong>, Rietbrock A. (2018) ‘Two go together’: Near-simultaneous moment release of two asperities during the 2016 Mw6.6 Muji, China earthquake. <em>Earth and Planetary Science Letters</em>, 491, 34-42 doi:<a href="https://doi.org/10.1016/j.epsl.2018.03.033">10.1016/j.epsl.2018.03.033</a></p>
 <p>[47] Mestre-Quereda A., Lopez-Sanchez J.M., Ballester-Berman J.D., <strong>González P.J.</strong>, Hooper A., Wright T.J. (2018) Evaluation of the Multilook Size in Polarimetric Optimization of Differential SAR Interferograms. <em>IEEE Geoscience and Remote Sensing Letters</em>, 15(9), 1407-1411. doi:<a href="https://doi.org/10.1109/LGRS.2018.2839179">10.1109/LGRS.2018.2839179</a></p>
 </section>
 </section>
@@ -289,7 +317,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="section-8">2017</h2>
 <p>[46] Bru* G., <strong>González P.J.</strong>, Mateos R.M., Roldan F.J., Herrera G., Bejar-Pizarro M., Fernández J. (2017) A-DInSAR Monitoring of Landslide and Subsidence Activity: A Case of Urban Damage in Arcos de la Frontera, Spain. <em>Remote Sensing</em>, 9(8). doi:<a href="https://doi.org/10.3390/rs9080787">10.3390/rs9080787</a></p>
 <p>[45] Delgado F., Pritchard M.E., Ebmeier S.K., <strong>González P.J.</strong>, Lara L. (2017) Recent unrest (2002-2015) imaged by space geodesy at the highest risk Chilean volcanoes: Llaima, Villarica and Calbuco (Southern Andes). <em>Journal of Volcanology and Geothermal Research</em>. 344, 270-288 doi:<a href="https://doi.org/10.1016/j.jvolgeores.2017.05.020">10.1016/j.jvolgeores.2017.05.020</a></p>
-<p>[44] Bie L., <strong>González P.J.</strong>, Rietbrock A. (2017) Slip Distribution of the 2015 Lefkada Earthquake and its Implications for Fault Segmentation. <em>Geophysical Journal International</em>. 210(1), 420-427. doi:<a href="https://doi.org/10.1093/gji/ggx171">10.1093/gji/ggx171</a></p>
+<p>[44] Bie* L., <strong>González P.J.</strong>, Rietbrock A. (2017) Slip Distribution of the 2015 Lefkada Earthquake and its Implications for Fault Segmentation. <em>Geophysical Journal International</em>. 210(1), 420-427. doi:<a href="https://doi.org/10.1093/gji/ggx171">10.1093/gji/ggx171</a></p>
 <p>[43] Tiampo K.F., <strong>González P.J.</strong>, Samsonov S.V., Fernández J., Camacho A.G. (2017) Principal component analysis of MSBAS DInSAR time series from Campi Flegrei, Italy. <em>Journal of Volcanology and Geothermal Research</em>. 344, 139-153. doi:<a href="https://doi.org/10.1016/j.jvolgeores.2017.03.004">10.1016/j.jvolgeores.2017.03.004</a></p>
 </section>
 <section id="section-9" class="level2">
@@ -297,7 +325,7 @@ ul.task-list li input[type="checkbox"] {
 <p>[42] Shirzaei M., Ellsworth W., Tiampo K.F., <strong>González, P.J.</strong>, M., Manga M. (2016) Surface uplift and time-dependent seismic hazard due to fluid injection in eastern Texas, <em>Science</em>, 353(6306), doi:<a href="https://doi.org/10.1126/science.aag0262">10.1126/science.aag0262</a></p>
 <p>[41] Bagnardi M., <strong>González P.J.</strong>, Hooper A. (2016). High-resolution digital elevation model from tri-stereo Pleiades-1 satellite imagery for lava flow volume estimates at Fogo Volcano. <em>Geophysical Research Letters</em>, 43(12), 6267-6275. doi:<a href="https://doi.org/10.1002/2016GL069457">10.1002/2016GL069457</a></p>
 <p>[40] Bonforte A., <strong>González P.J.</strong>, Fernández J. (2016). Joint terrestrial and aerial measurements to study ground deformation: Application to the Sciara del Fuoco at the stromboli volcano (Sicily). <em>Remote Sensing</em>, 8(6). doi:<a href="https://doi.org/10.3390/rs8060463">10.3390/rs8060463</a></p>
-<p>[39] Elliott J.R., Jolivet R., <strong>González P.J.</strong>, Avouac J.-P., Hollingsworth J., Searle M.P., Stevens V.L. (2016) Himalayan megathrust geometry and relation to topography revealed by the Gorkha earthquake, <em>Nature Geoscience</em>, 9, 174–180, doi:<a href="https://doi.org/10.1038/ngeo2623">10.1038/ngeo2623</a></p>
+<p>[39] Elliott<span class="math inline">\(^{=}\)</span> J.R., Jolivet<span class="math inline">\(^{=}\)</span> R., <strong>González P.J.</strong>, Avouac J.-P., Hollingsworth J., Searle M.P., Stevens V.L. (2016) Himalayan megathrust geometry and relation to topography revealed by the Gorkha earthquake, <em>Nature Geoscience</em>, 9, 174–180, doi:<a href="https://doi.org/10.1038/ngeo2623">10.1038/ngeo2623</a></p>
 </section>
 <section id="section-10" class="level2">
 <h2 class="anchored" data-anchor-id="section-10">2015</h2>
@@ -604,8 +632,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -716,7 +742,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -946,7 +971,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><i class="fa-regular fa-copyright" aria-label="copyright"></i> Pablo J. Gonzalez, 2014-2024<br> All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a><br> Opinions are my own and do not represent my employer</p>
+<p><i class="fa-regular fa-copyright" aria-label="copyright"></i> Pablo J. Gonzalez, 2014-2025<br> All content licensed under <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-sa" aria-label="creative-commons-sa"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a><br> Opinions are my own and do not represent my employer</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
