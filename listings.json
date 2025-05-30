@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/04_MyNotes.html",
+    "listing": "/04_MyNotes/index.html",
     "items": [
       "/04_MyNotes/20240921_QuartoMigration/index.html",
       "/04_MyNotes/20220324_SciencePaperFlankCollapses/index.html",
@@ -13,19 +13,6 @@
       "/04_MyNotes/20130401_CartaAbiertaIGN/index.html",
       "/04_MyNotes/20121104_HAWAII/index.html",
       "/04_MyNotes/20121019_NatureGeoscience_Lorca/index.html"
-    ]
-  },
-  {
-    "listing": "/02_InputsProjects.html",
-    "items": [
-      "/02_InputsProjects/Active/2026_2022_GEMMA/index.html",
-      "/02_InputsProjects/Active/2027_2023_VolcaMotion/index.html",
-      "/02_InputsProjects/Active/2028_2025_GasPof/index.html",
-      "/02_InputsProjects/Past/2019_2016_COMET/index.html",
-      "/02_InputsProjects/Past/2022_2020_Leonardo/index.html",
-      "/02_InputsProjects/Past/2023_2019_COMPACT/index.html",
-      "/02_InputsProjects/Past/2023_2022_PostEruptiveLavas/index.html",
-      "/02_InputsProjects/Past/2025_2022_ALOS2/index.html"
     ]
   },
   {
@@ -77,7 +64,21 @@
     ]
   },
   {
-    "listing": "/04_MyNotes/index.html",
+    "listing": "/02_InputsProjects.html",
+    "items": [
+      "/02_InputsProjects/Active/2025_FlankED/index.html",
+      "/02_InputsProjects/Active/2026_2022_GEMMA/index.html",
+      "/02_InputsProjects/Active/2027_2023_VolcaMotion/index.html",
+      "/02_InputsProjects/Active/2028_2025_GasPof/index.html",
+      "/02_InputsProjects/Past/2019_2016_COMET/index.html",
+      "/02_InputsProjects/Past/2022_2020_Leonardo/index.html",
+      "/02_InputsProjects/Past/2023_2019_COMPACT/index.html",
+      "/02_InputsProjects/Past/2023_2022_PostEruptiveLavas/index.html",
+      "/02_InputsProjects/Past/2025_2022_ALOS2/index.html"
+    ]
+  },
+  {
+    "listing": "/04_MyNotes.html",
     "items": [
       "/04_MyNotes/20240921_QuartoMigration/index.html",
       "/04_MyNotes/20220324_SciencePaperFlankCollapses/index.html",
@@ -95,6 +96,7 @@
   {
     "listing": "/05_NewsAndMedia.html",
     "items": [
+      "/05_NewsAndMedia/20250526_InvitedSeminar_1stAssemblyRottNRock/index.html",
       "/05_NewsAndMedia/20241022_InvitedSeminar_LMU/index.html",
       "/05_NewsAndMedia/20241018_InvitedTalk_IIIVulcanaSymposium/index.html",
       "/05_NewsAndMedia/20241007_RottNRockVisitsTeide/index.html",
