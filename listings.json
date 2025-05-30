@@ -18,14 +18,14 @@
   {
     "listing": "/02_InputsProjects.html",
     "items": [
-      "/02_InputsProjects/Active/2025_2022_ALOS2/index.html",
       "/02_InputsProjects/Active/2026_2022_GEMMA/index.html",
       "/02_InputsProjects/Active/2027_2023_VolcaMotion/index.html",
       "/02_InputsProjects/Active/2028_2025_GasPof/index.html",
       "/02_InputsProjects/Past/2019_2016_COMET/index.html",
       "/02_InputsProjects/Past/2022_2020_Leonardo/index.html",
       "/02_InputsProjects/Past/2023_2019_COMPACT/index.html",
-      "/02_InputsProjects/Past/2023_2022_PostEruptiveLavas/index.html"
+      "/02_InputsProjects/Past/2023_2022_PostEruptiveLavas/index.html",
+      "/02_InputsProjects/Past/2025_2022_ALOS2/index.html"
     ]
   },
   {
@@ -33,12 +33,11 @@
     "items": [
       "/01_Team/Active/00_PabloJGonzalez/index.html",
       "/01_Team/Active/00_ThomasBoulesteix/index.html",
-      "/01_Team/Active/02_ManWaiYipMichelle/index.html",
       "/01_Team/Active/02_MohammadHossainMohammadNia/index.html",
-      "/01_Team/Active/03_SergioParra/index.html",
-      "/01_Team/Past/00_YuJiang/index.html",
-      "/01_Team/Past/01_GuadalupeBru/index.html",
-      "/01_Team/Past/02_SamiraAlipour/index.html",
+      "/01_Team/Past/00_ManWaiYipMichelle/index.html",
+      "/01_Team/Past/01_YuJiang/index.html",
+      "/01_Team/Past/02_GuadalupeBru/index.html",
+      "/01_Team/Past/03_SamiraAlipour/index.html",
       "/01_Team/Past/10_LidongBie/index.html",
       "/01_Team/Past/11_AmayaFuensalida/index.html",
       "/01_Team/Past/20_AndreaGarmendia/index.html",
@@ -67,9 +66,14 @@
       "/01_Team/UnderGrads/2023_BrunoMesa/index.html",
       "/01_Team/UnderGrads/2023_JoseAndresRamosMendoza/index.html",
       "/01_Team/UnderGrads/2023_LuisSignorelliPacheco/index.html",
+      "/01_Team/UnderGrads/2024_AlvaroRodriguezOrtega/index.html",
       "/01_Team/UnderGrads/2024_DanielGomezMedina/index.html",
       "/01_Team/UnderGrads/2024_JorgeFeblesQuilis/index.html",
-      "/01_Team/UnderGrads/2024_LuciaMartin/index.html"
+      "/01_Team/UnderGrads/2024_LuciaMartinAriza/index.html",
+      "/01_Team/UnderGrads/2025_JesusJavierApesteguiaCaraballo/index.html",
+      "/01_Team/UnderGrads/2025_LauraRodriguezTorres/index.html",
+      "/01_Team/UnderGrads/2025_MonicaMarinSanchez/index.html",
+      "/01_Team/UnderGrads/2025_SergioAlfaya/index.html"
     ]
   },
   {
