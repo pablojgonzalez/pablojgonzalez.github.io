@@ -66,7 +66,6 @@
   {
     "listing": "/02_InputsProjects.html",
     "items": [
-      "/02_InputsProjects/Active/2025_FlankED/index.html",
       "/02_InputsProjects/Active/2026_2022_GEMMA/index.html",
       "/02_InputsProjects/Active/2027_2023_VolcaMotion/index.html",
       "/02_InputsProjects/Active/2028_2025_GasPof/index.html",
@@ -74,7 +73,8 @@
       "/02_InputsProjects/Past/2022_2020_Leonardo/index.html",
       "/02_InputsProjects/Past/2023_2019_COMPACT/index.html",
       "/02_InputsProjects/Past/2023_2022_PostEruptiveLavas/index.html",
-      "/02_InputsProjects/Past/2025_2022_ALOS2/index.html"
+      "/02_InputsProjects/Past/2025_2022_ALOS2/index.html",
+      "/02_InputsProjects/Past/2025_FlankED/index.html"
     ]
   },
   {
