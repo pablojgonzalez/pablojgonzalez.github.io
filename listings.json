@@ -1,39 +1,23 @@
 [
   {
-    "listing": "/04_MyNotes/index.html",
-    "items": [
-      "/04_MyNotes/20240921_QuartoMigration/index.html",
-      "/04_MyNotes/20220324_SciencePaperFlankCollapses/index.html",
-      "/04_MyNotes/20191012_SeawaterAndMountainViews/index.html",
-      "/04_MyNotes/20140613_VolcanoDocumentaries/index.html",
-      "/04_MyNotes/20160929_1stCOMETInSARworkshop/index.html",
-      "/04_MyNotes/20160901_Accumoli/index.html",
-      "/04_MyNotes/20140712_ObservandoVolcanoesDesdeElEspacio/index.html",
-      "/04_MyNotes/20130517_3DEFcode/index.html",
-      "/04_MyNotes/20130401_CartaAbiertaIGN/index.html",
-      "/04_MyNotes/20121104_HAWAII/index.html",
-      "/04_MyNotes/20121019_NatureGeoscience_Lorca/index.html"
-    ]
-  },
-  {
     "listing": "/01_Team.html",
     "items": [
       "/01_Team/Active/00_PabloJGonzalez/index.html",
       "/01_Team/Active/00_ThomasBoulesteix/index.html",
       "/01_Team/Active/02_MohammadHossainMohammadNia/index.html",
-      "/01_Team/Active/02_SallyHenry/index.html",
       "/01_Team/Past/00_ManWaiYipMichelle/index.html",
       "/01_Team/Past/01_YuJiang/index.html",
       "/01_Team/Past/02_GuadalupeBru/index.html",
       "/01_Team/Past/03_SamiraAlipour/index.html",
       "/01_Team/Past/10_LidongBie/index.html",
       "/01_Team/Past/11_AmayaFuensalida/index.html",
-      "/01_Team/Past/20_AndreaGarmendia/index.html",
-      "/01_Team/Past/21_MireiaJones/index.html",
-      "/01_Team/Past/22_ManWaiYipMichelle/index.html",
-      "/01_Team/Past/23_TeoNagy/index.html",
-      "/01_Team/Past/24_JorgeVargas/index.html",
-      "/01_Team/Past/25_AntonioMorales/index.html",
+      "/01_Team/Past/20_SallyHenry/index.html",
+      "/01_Team/Past/21_AndreaGarmendia/index.html",
+      "/01_Team/Past/22_MireiaJones/index.html",
+      "/01_Team/Past/23_ManWaiYipMichelle/index.html",
+      "/01_Team/Past/24_TeoNagy/index.html",
+      "/01_Team/Past/25_JorgeVargas/index.html",
+      "/01_Team/Past/26_AntonioMorales/index.html",
       "/01_Team/UnderGrads/2008_SolveigPospeich/index.html",
       "/01_Team/UnderGrads/2013_CameronMcKee/index.html",
       "/01_Team/UnderGrads/2015_LiamFinnerty/index.html",
@@ -68,6 +52,43 @@
     ]
   },
   {
+    "listing": "/05_NewsAndMedia.html",
+    "items": [
+      "/05_NewsAndMedia/20260301_TeideFebruarySwarms_ElDia/index.html",
+      "/05_NewsAndMedia/20260102_NubosidadVariable_MuyInteresante/index.html",
+      "/05_NewsAndMedia/20251226_PosteruptiveDeformationTajogaite_ElDia/index.html",
+      "/05_NewsAndMedia/20250526_InvitedSeminar_1stAssemblyRottNRock/index.html",
+      "/05_NewsAndMedia/20241022_InvitedSeminar_LMU/index.html",
+      "/05_NewsAndMedia/20241018_InvitedTalk_IIIVulcanaSymposium/index.html",
+      "/05_NewsAndMedia/20241007_RottNRockVisitsTeide/index.html",
+      "/05_NewsAndMedia/20240929_VolcaMotionElHierroSurvey/index.html",
+      "/05_NewsAndMedia/20240717_CopeRadio/index.html",
+      "/05_NewsAndMedia/20240530_Charcoetal_GRL/index.html",
+      "/05_NewsAndMedia/20240530_SeminarioRSAPT/index.html",
+      "/05_NewsAndMedia/20230601_CenizaYLava/index.html",
+      "/05_NewsAndMedia/20220623_AlexWebbVisit/index.html",
+      "/05_NewsAndMedia/20220614_Omiraetal_Nature/index.html",
+      "/05_NewsAndMedia/20211128_FueraDePlano2/index.html",
+      "/05_NewsAndMedia/20211009_FueraDePlano1/index.html"
+    ]
+  },
+  {
+    "listing": "/04_MyNotes/index.html",
+    "items": [
+      "/04_MyNotes/20240921_QuartoMigration/index.html",
+      "/04_MyNotes/20220324_SciencePaperFlankCollapses/index.html",
+      "/04_MyNotes/20191012_SeawaterAndMountainViews/index.html",
+      "/04_MyNotes/20140613_VolcanoDocumentaries/index.html",
+      "/04_MyNotes/20160929_1stCOMETInSARworkshop/index.html",
+      "/04_MyNotes/20160901_Accumoli/index.html",
+      "/04_MyNotes/20140712_ObservandoVolcanoesDesdeElEspacio/index.html",
+      "/04_MyNotes/20130517_3DEFcode/index.html",
+      "/04_MyNotes/20130401_CartaAbiertaIGN/index.html",
+      "/04_MyNotes/20121104_HAWAII/index.html",
+      "/04_MyNotes/20121019_NatureGeoscience_Lorca/index.html"
+    ]
+  },
+  {
     "listing": "/02_InputsProjects.html",
     "items": [
       "/02_InputsProjects/Active/2027_2023_VolcaMotion/index.html",
@@ -95,27 +116,6 @@
       "/04_MyNotes/20130401_CartaAbiertaIGN/index.html",
       "/04_MyNotes/20121104_HAWAII/index.html",
       "/04_MyNotes/20121019_NatureGeoscience_Lorca/index.html"
-    ]
-  },
-  {
-    "listing": "/05_NewsAndMedia.html",
-    "items": [
-      "/05_NewsAndMedia/20260301_TeideFebruarySwarms_ElDia/index.html",
-      "/05_NewsAndMedia/20260102_NubosidadVariable_MuyInteresante/index.html",
-      "/05_NewsAndMedia/20251226_PosteruptiveDeformationTajogaite_ElDia/index.html",
-      "/05_NewsAndMedia/20250526_InvitedSeminar_1stAssemblyRottNRock/index.html",
-      "/05_NewsAndMedia/20241022_InvitedSeminar_LMU/index.html",
-      "/05_NewsAndMedia/20241018_InvitedTalk_IIIVulcanaSymposium/index.html",
-      "/05_NewsAndMedia/20241007_RottNRockVisitsTeide/index.html",
-      "/05_NewsAndMedia/20240929_VolcaMotionElHierroSurvey/index.html",
-      "/05_NewsAndMedia/20240717_CopeRadio/index.html",
-      "/05_NewsAndMedia/20240530_Charcoetal_GRL/index.html",
-      "/05_NewsAndMedia/20240530_SeminarioRSAPT/index.html",
-      "/05_NewsAndMedia/20230601_CenizaYLava/index.html",
-      "/05_NewsAndMedia/20220623_AlexWebbVisit/index.html",
-      "/05_NewsAndMedia/20220614_Omiraetal_Nature/index.html",
-      "/05_NewsAndMedia/20211128_FueraDePlano2/index.html",
-      "/05_NewsAndMedia/20211009_FueraDePlano1/index.html"
     ]
   }
 ]
